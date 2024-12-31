@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+nav ul li a{
+    color:  rgba(0, 0, 0, 0.5);
+}
+nav ul li a:hover{
+    color:  rgba(0, 0, 0, 1);
+}
+nav ul li a:focus{
+    color:  rgba(0, 0, 0, 1);
+    font-weight: 600;
+}
+footer ul li a{
+    color:  #CFCFCF;
+    margin-bottom: 5px;
+}
+footer ul li a:hover{
+    color:  #797979;
+}

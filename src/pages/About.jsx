@@ -1,0 +1,25 @@
+import React from 'react'
+
+const About = () => {
+  return (
+    <div className='Container'>
+        <h2 className='text-[30px] font-medium '>About Part:</h2>
+        <ul className='max-w-[900px] flex flex-col gap-10 mx-10 my-10 text-[#5a5a5a]'>
+            <li>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet non quos fugiat blanditiis autem dignissimos minus fuga numquam suscipit officiis nam nobis provident ea harum, mollitia a aut. Nisi a fugiat repellat? Ut, suscipit aperiam unde accusantium quis aut quo, ad, in nostrum itaque minima dicta praesentium ratione. Laboriosam suscipit ex dignissimos tenetur quisquam quae quidem mollitia ducimus totam officiis, sunt debitis, ullam harum nisi adipisci inventore. Repudiandae, eveniet aperiam? Iure atque doloribus officiis eveniet cum consequatur asperiores obcaecati nostrum a consequuntur, delectus reprehenderit alias aut quas ipsa labore enim hic sapiente tenetur, laborum fuga, vel facilis exercitationem. Nulla quas nisi deleniti cupiditate ducimus est consequuntur, ipsam soluta. Nesciunt possimus distinctio ad odio, beatae sequi iure in impedit mollitia ea est fuga voluptatem officia enim exercitationem similique excepturi necessitatibus maiores nobis suscipit provident animi vel sit tempora. Sed quasi, facilis, a impedit repudiandae ipsam officia ad laudantium, nam corrupti sint?
+            </li>
+            <li>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet non quos fugiat blanditiis autem dignissimos minus fuga numquam suscipit officiis nam nobis provident ea harum, mollitia a aut. Nisi a fugiat repellat? Ut, suscipit aperiam unde accusantium quis aut quo, ad, in nostrum itaque minima dicta praesentium ratione. Laboriosam suscipit ex dignissimos tenetur quisquam quae quidem mollitia ducimus totam officiis, sunt debitis, ullam harum nisi adipisci inventore. Repudiandae, eveniet aperiam? Iure atque doloribus officiis eveniet cum consequatur asperiores obcaecati nostrum a consequuntur, delectus reprehenderit alias aut quas ipsa labore enim hic sapiente tenetur, laborum fuga, vel facilis exercitationem. Nulla quas nisi deleniti cupiditate ducimus est consequuntur, ipsam soluta. Nesciunt possimus distinctio ad odio, beatae sequi iure in impedit mollitia ea est fuga voluptatem officia enim exercitationem similique excepturi necessitatibus maiores nobis suscipit provident animi vel sit tempora. Sed quasi, facilis, a impedit repudiandae ipsam officia ad laudantium, nam corrupti sint?
+            </li>
+            <li>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet non quos fugiat blanditiis autem dignissimos minus fuga numquam suscipit officiis nam nobis provident ea harum, mollitia a aut. Nisi a fugiat repellat? Ut, suscipit aperiam unde accusantium quis aut quo, ad, in nostrum itaque minima dicta praesentium ratione. Laboriosam suscipit ex dignissimos tenetur quisquam quae quidem mollitia ducimus totam officiis, sunt debitis, ullam harum nisi adipisci inventore. Repudiandae, eveniet aperiam? Iure atque doloribus officiis eveniet cum consequatur asperiores obcaecati nostrum a consequuntur, delectus reprehenderit alias aut quas ipsa labore enim hic sapiente tenetur, laborum fuga, vel facilis exercitationem. Nulla quas nisi deleniti cupiditate ducimus est consequuntur, ipsam soluta. Nesciunt possimus distinctio ad odio, beatae sequi iure in impedit mollitia ea est fuga voluptatem officia enim exercitationem similique excepturi necessitatibus maiores nobis suscipit provident animi vel sit tempora. Sed quasi, facilis, a impedit repudiandae ipsam officia ad laudantium, nam corrupti sint?
+            </li>
+            <li>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet non quos fugiat blanditiis autem dignissimos minus fuga numquam suscipit officiis nam nobis provident ea harum, mollitia a aut. Nisi a fugiat repellat? Ut, suscipit aperiam unde accusantium quis aut quo, ad, in nostrum itaque minima dicta praesentium ratione. Laboriosam suscipit ex dignissimos tenetur quisquam quae quidem mollitia ducimus totam officiis, sunt debitis, ullam harum nisi adipisci inventore. Repudiandae, eveniet aperiam? Iure atque doloribus officiis eveniet cum consequatur asperiores obcaecati nostrum a consequuntur, delectus reprehenderit alias aut quas ipsa labore enim hic sapiente tenetur, laborum fuga, vel facilis exercitationem. Nulla quas nisi deleniti cupiditate ducimus est consequuntur, ipsam soluta. Nesciunt possimus distinctio ad odio, beatae sequi iure in impedit mollitia ea est fuga voluptatem officia enim exercitationem similique excepturi necessitatibus maiores nobis suscipit provident animi vel sit tempora. Sed quasi, facilis, a impedit repudiandae ipsam officia ad laudantium, nam corrupti sint?
+            </li>
+        </ul>
+    </div>
+  )
+}
+
+export default About
